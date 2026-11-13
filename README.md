@@ -1,2 +1,2 @@
 # actions-course
-Course github actions 
+Course github actions repository
